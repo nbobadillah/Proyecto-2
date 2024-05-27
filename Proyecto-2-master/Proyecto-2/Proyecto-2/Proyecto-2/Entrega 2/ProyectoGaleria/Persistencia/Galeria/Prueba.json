@@ -1,0 +1,129 @@
+{
+  "Usuarios": [
+    {
+      "Nombre": "Alice",
+      "Piezas Actuales": ",0,1,2,3,4",
+      "Historial Piezas": "Vacío",
+      "Tipo": "Comprador",
+      "Telefono": 1234567890,
+      "Login": "loginalice",
+      "Dinero": 0,
+      "Valor Maximo Compras": 200,
+      "Password": "hola123"
+    },
+    {
+      "Nombre": "Bob",
+      "Tipo": "Administrador",
+      "Telefono": 912345678,
+      "Login": "loginbob",
+      "Password": "adios456"
+    },
+    {
+      "Nombre": "Eve",
+      "Tipo": "Cajero",
+      "Telefono": 891234567,
+      "Login": "logineve",
+      "Password": "saludos789"
+    },
+    {
+      "Nombre": "Neo",
+      "Tipo": "Operador",
+      "Telefono": 789123456,
+      "Login": "loginneo",
+      "Password": "secreto"
+    },
+    {
+      "Nombre": "Thomas Anderson",
+      "Tipo": "Empleado",
+      "Telefono": 789123456,
+      "Login": "logiThomasAnderson",
+      "Password": "enlamatrix"
+    }
+  ],
+  "Piezas": [
+    {
+      "Proprietario": "loginalice",
+      "Autores": "Autor artista",
+      "Lugar": "Puerto Rico",
+      "Consignacion": false,
+      "Titulo": "Video artístico",
+      "Valor": 2000,
+      "Exhiba venda o subasta": "1",
+      "Formato": ".mp4",
+      "Exhibida": false,
+      "Tipo": "Video",
+      "Duracion": 152,
+      "Alto": 1920,
+      "Ancho": 1080,
+      "Identificador": "0",
+      "Año": 2018
+    },
+    {
+      "Proprietario": "loginalice",
+      "Autores": "Albert Aublet",
+      "Lugar": "Francia",
+      "Consignacion": false,
+      "Titulo": "Selene",
+      "Valor": 2000000,
+      "Exhiba venda o subasta": "1",
+      "Exhibida": false,
+      "Tipo": "Pintura",
+      "Alto": 1920,
+      "Ancho": 1080,
+      "Identificador": "1",
+      "Año": 1880
+    },
+    {
+      "Proprietario": "loginalice",
+      "Autores": "Epson",
+      "Lugar": "Bogotá",
+      "Consignacion": false,
+      "Titulo": "Tarea",
+      "Valor": 1,
+      "Exhiba venda o subasta": "1",
+      "Exhibida": false,
+      "Tipo": "Impresion",
+      "Alto": 1920,
+      "Ancho": 1080,
+      "Identificador": "2",
+      "Año": 2024
+    },
+    {
+      "Proprietario": "loginalice",
+      "Autores": "fotógrafo",
+      "Lugar": "Foto Japón",
+      "Enmarcado": false,
+      "Consignacion": true,
+      "Titulo": "Fotografía artística",
+      "Valor": 2000,
+      "Exhiba venda o subasta": "1",
+      "Formato": ".png",
+      "Exhibida": false,
+      "Tipo": "Fotografia",
+      "Alto": 1080,
+      "Ancho": 1920,
+      "Identificador": "3",
+      "Año": 1816
+    },
+    {
+      "Profundidad": 152,
+      "Proprietario": "loginalice",
+      "Autores": "Desonocido",
+      "Lugar": "Mesopotamia",
+      "Otro detalle": false,
+      "Consignacion": true,
+      "Titulo": "Escultura artística",
+      "Valor": 2000000,
+      "Exhiba venda o subasta": "1",
+      "Exhibida": false,
+      "Tipo": "Escultura",
+      "Peso": 376,
+      "Materiales": "Piedra",
+      "Electricidad": false,
+      "Alto": 1920,
+      "Ancho": 1080,
+      "Identificador": "4",
+      "Año": -6000
+    }
+  ]
+}
